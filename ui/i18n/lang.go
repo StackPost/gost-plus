@@ -15,9 +15,9 @@ var langs = []Lang{
 		content: en_US,
 	},
 	{
-		Name:    Chinese,
-		Value:   "zh_CN",
-		content: zh_CN,
+		Name:    Russian,
+		Value:   "ru_RU",
+		content: ru_RU,
 	},
 }
 
